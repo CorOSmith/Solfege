@@ -1,7 +1,7 @@
 "# Solfege" 
 
 
-          Solfege is a simple Java midi piano program that shows the hand Sofege hand signs as you play notes.
+          Solfege is a simple Java midi piano program that shows the hand Solfege hand signs as you play notes.
           It was create for education to teach students in choir classes.
 
           KEYBINDS: 'z','x','c','v' plays F, G, A, and B 
